@@ -1,31 +1,33 @@
-a[target="_top"]{
+a[target="_top"] {
     background-color: yellow;
 }
 
-a[target="_blank"]{
-    background-color:burlywood;
+a[target="_blank"] {
+    background-color: burlywood;
 }
 
-a[target="_parent"]{
+a[target="_parent"] {
     background-color: pink;
 }
-.class1 .class2{
+
+.class1 .class2 {
     background-color: aqua;
     color: blue;
 }
 
-.class1.class2{
-    background-color:gold;
-    color:violet;
-}
+.class1.class2 {
+    background-color: gold;
+    color: violet;
+} 
 
-body{
+ body {
     color: purple;
 }
 
-div{
+div {
     background-color: orange;
     padding: 15px;
     border: 10px solid currentColor;
     box-shadow: 1px 1px 20px currentColor;
 }
+
